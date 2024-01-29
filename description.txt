@@ -1,0 +1,5 @@
+The code first checks if the result directory exists and creates if not. Then it also creates a new file named “output.txt” and if it exists it clears it out.
+Then it reads line by line from the file in a while loop, there each line is split by gaps and stored into array. The array[0] then contains the first number, array[1] the second number and array[2] the operand.
+Then the code proceeds according to the operand by the help of if-elif-else conditioning the the final result regardless of the operation is stored in the result variable.
+Finally in the end the result is written in the file named output.txt.
+At the end of program the message "Task terminated successfully" is shown.  

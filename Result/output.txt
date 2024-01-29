@@ -1,0 +1,3 @@
+The result of compare of 3 and 4 is - 4
+The result of xor of 5 and 6 is - 3
+The result of 34 of 6 and 7 is - Wrong operand
